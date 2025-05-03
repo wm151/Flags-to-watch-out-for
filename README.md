@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > This is for verifier's to ensure legitimacy.
+> ALSO I DONT CARE IF SOME ARE PATCHED NOT MY PROBLEM ATLEAST THEY ARE LISTED SO YOU KNOW WHAT THEY DO.
 
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
 
