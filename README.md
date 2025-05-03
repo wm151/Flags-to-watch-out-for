@@ -391,6 +391,28 @@ High
   "DFIntVoiceChatRollOffMaxDistance": "80",
   "DFIntVoiceChatVolumeThousandths": "3500"}
 ```
+### Text Size
+###### *Change true of false to the flags you want to have text size bigger*
+```json
+{
+  "FFlagEnablePreferredTextSizeGuiService": "True",
+  "FFlagEnablePreferredTextSizeScale": "True",
+  "FFlagEnablePreferredTextSizeScalePerLayerCollector": "True",
+  "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
+  "FFlagEnablePreferredTextSizeStyleFixesInCaptureMenu": "True",
+  "FFlagEnablePreferredTextSizeStyleFixesInExperienceMenu": "True",
+  "FFlagEnablePreferredTextSizeStyleFixesInPlayerList": "True",
+  "FFlagEnablePreferredTextSizeStyleFixesAddFriends": "True",
+  "FFlagEnablePreferredTextSizeStyleFixesGameTile": "True",
+}
+```
+### New Settings Layout
+
+```json
+{
+  "FFlagInExperienceMenuReorderFirstVariant2": "True"
+}
+```
 
 ### Disable Telemetry 
 ###### *[This doesn't fully disable telemetry]*
