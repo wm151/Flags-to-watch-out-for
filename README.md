@@ -378,7 +378,7 @@ High
 { "DFFlagUnstickForceAttackInTenths": "-4" }
 ```
 
-<h1 align="center">other fflags</h1>
+<h1 align="center">other fflags maybe duped</h1>
 
 ### Disable ADs
 ```json
@@ -521,7 +521,7 @@ High
 ```
 
 
-<h1 align="Other ( Maybe duped ) ">
+
 
 
 ### Patched in 0, 608, 1, 6080485
