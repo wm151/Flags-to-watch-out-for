@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> https://github.com/FastFlags/FastFlags-Collective/
+> This is for verifier's to ensure legitimacy.
 
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
 
@@ -16,7 +16,7 @@
 
  
 
-<img src=https://cdn.discordapp.com/attachments/1098536027578171497/1368173912478716016/36c2776ccc664e335c88d09bd0fbe152.jpg?ex=681742c0&is=6815f140&hm=e83a0e75132a3a65ffbf15c3cda3e28060931d75091d0fc670b1e6595ac2b306&" width="888"/>
+<img src=https://github.com/wm151/Flags-to-watch-out-for/blob/main/36c2776ccc664e335c88d09bd0fbe152.jpg" width="888"/>
 
 ### 
 
