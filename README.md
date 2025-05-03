@@ -413,6 +413,45 @@ High
   "FFlagInExperienceMenuReorderFirstVariant2": "True"
 }
 ```
+### Enable DRS(Dynamic Resolution Scale)
+
+```json
+{
+  "FFlagRenderDynamicResolutionScale10": "true"
+}
+```
+### Dark Mode (Hideous💀)
+
+```json
+{
+  "DFIntRenderClampRoughnessMax": "-640000000",
+    "DFIntDebugFRMQualityLevelOverride": "3"
+}
+```
+### Pixelated Graphics(just why? idk dont ask me ask yourself.)
+### higher values will give more pixels
+
+```json
+{
+  "DFIntDebugDynamicRenderKiloPixels": "1"
+}
+```
+### Disable centered experience details page(i dont know okay?)
+
+```json
+{
+    "FFlagUIBloxMoveDetailsPageToLuaApps": "False",
+}
+```
+### Party Voice Early Access(Swearing Enabled)
+### works only if both users wanting to use it have this flag 
+
+```json
+{
+  "FFlagEnablePartyVoiceOnlyForUnfilteredThreads": "False",
+"FFlagEnablePartyVoiceOnlyForEligibleUsers": "False"
+}
+```
 
 ### Disable Telemetry 
 ###### *[This doesn't fully disable telemetry]*
