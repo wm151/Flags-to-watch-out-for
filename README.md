@@ -16,7 +16,7 @@
 
  
 
-<img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/36c2776ccc664e335c88d09bd0fbe152.jpg" width="444"/>
+<h1 align="center"><img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/36c2776ccc664e335c88d09bd0fbe152.jpg" width="444"/>
 
 ### 
 
