@@ -19,7 +19,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/36c2776ccc664e335c88d09bd0fbe152.jpg" width="444"/>
 
 ### 
-<h1 align=“center”>Any Unlisted Flags? Contact Me With The Flags Name And I'll Add It (@cruelvows On Discord)</h1>
+<h1 align=“center”>Any Unlisted Flags? Contact Me With The Flags Name And I'll Add It.</h1>
+<h1 align="center">(@cruelvows On Discord)</h1>
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 <h1 align="center">Rendering API</h1>
