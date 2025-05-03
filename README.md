@@ -461,7 +461,27 @@ High
     "FFlagLuaAppFoundationColorsABTest":"False"
 }
 ```
+### 2015 Escape Menu
+### Requires dmp(datamodel patch, https://www.mediafire.com/file/k15ls171pl01a7v/V648+Atlas+&+DMP.zip/file)
 
+```json
+{
+  "FFlagDataModelPatcherForceLocal": "True",
+  "FFlagEnableInGameMenuChrome": "False", 
+  "FFlagEnableInGameMenuChromeABTest4": "False",
+  "FIntNewInGameMenuPercentRollout3": "0",
+  "FFlagEnableInGameMenuModernization": "False",
+  "FFlagFixReportButtonCutOff": "False",
+  "FFlagSettingsHubIndependentBackgroundVisibility": "False"
+}
+```
+### Red Text Requires No Font
+
+```json
+{
+  "FStringDebugHighlightSpecificFont": "rbxasset://fonts/families/BuilderSans.json"
+}
+```
 ### Disable Telemetry 
 ###### *[This doesn't fully disable telemetry]*
 ```json
