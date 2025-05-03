@@ -452,6 +452,15 @@ High
 "FFlagEnablePartyVoiceOnlyForEligibleUsers": "False"
 }
 ```
+### Make The Play Button Green Again
+
+```json
+{
+  "FFlagLuaAppUseUIBloxColorPalettes1": "False",
+    "FFlagLuaAppEnableFoundationColors7": "False",
+    "FFlagLuaAppFoundationColorsABTest":"False"
+}
+```
 
 ### Disable Telemetry 
 ###### *[This doesn't fully disable telemetry]*
