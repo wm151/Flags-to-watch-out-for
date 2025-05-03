@@ -393,7 +393,7 @@ High
   "DFIntVoiceChatVolumeThousandths": "3500"}
 ```
 ### Text Size
-###### *Change true of false to the flags you want to have text size bigger*
+###### *Change true or false to the flags you want to have text size bigger*
 ```json
 {
   "FFlagEnablePreferredTextSizeGuiService": "True",
