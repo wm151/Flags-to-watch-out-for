@@ -384,6 +384,13 @@ High
 ```json
 { "FFlagAdServiceEnabled": "False" }
 ```
+### VoiceChat Changes
+###### *Change the values to whatever you want but becareful high values is not suggested*
+```json
+{ ""DFIntVoiceChatRollOffMinDistance": "7",
+  "DFIntVoiceChatRollOffMaxDistance": "80",
+  "DFIntVoiceChatVolumeThousandths": "3500"}
+```
 
 ### Disable Telemetry 
 ###### *[This doesn't fully disable telemetry]*
