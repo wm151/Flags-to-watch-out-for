@@ -21,7 +21,7 @@
 <h1 align=“center”>How to check if they're using another client? Here.</h1>
 <h1 align="center"><img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/image_2025-05-04_112215564.png" width="555" height="450"/>
 
-* **If you see something overlay ontop over roblox's message then its most likely a custom client OR check their taskbar to ensure its not another client (it will show something loading)**
+* **If you see something overlay ontop over roblox's message then its most likely a custom client OR check their taskbar to ensure its not another client (it will show something loading if it's another client only)**
 
 
 <h1 align=“center”>Nothing showed up? Then it's most likely to be the original roblox client</h1>
