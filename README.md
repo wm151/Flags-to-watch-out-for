@@ -8,7 +8,7 @@
 
 
 
-##### Version: 2.9.1.2 [3/5/2025]
+##### Version: 2.9.1.3 [4/5/2025]
 
 * **New Formatting**
 * **Some Flags May Be Patched**
@@ -18,6 +18,8 @@
  
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/36c2776ccc664e335c88d09bd0fbe152.jpg" width="444"/>
+<h1 align=“center”>How to check if they're using another client? Here.</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/wm151/Flags-to-watch-out-for/refs/heads/main/2025-05-04%2011-11-27.gif" width="444"/>
 
 ### 
 <h1 align=“center”>Any Unlisted Flags? Contact Me With The Flags Name And I'll Add It.</h1>
